@@ -1,0 +1,3 @@
+/c/Mostafa Bahaa/AUC/Spring 2025/CS II Lab/Assignments/Assignment 1/build/CMakeFiles/test.dir
+/c/Mostafa Bahaa/AUC/Spring 2025/CS II Lab/Assignments/Assignment 1/build/CMakeFiles/edit_cache.dir
+/c/Mostafa Bahaa/AUC/Spring 2025/CS II Lab/Assignments/Assignment 1/build/CMakeFiles/rebuild_cache.dir
