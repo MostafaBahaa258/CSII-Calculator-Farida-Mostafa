@@ -6,5 +6,7 @@ int main() {
     Calculator calc;
     cout << "6 + 3 = " << calc.add(6, 3) << endl;
     cout << "6 - 3 = " << calc.subtract(6, 3) << endl;
+    cout << "6 * 3 = " << calc.multiply(6, 3) << endl;
+    cout << "6 / 3 = " << calc.divide(6, 3) << endl;
     return 0;
 }
