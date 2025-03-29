@@ -11,5 +11,6 @@ int main() {
     cout << "Factorial of 6 is " << calc.factorial(6) << endl;
     cout << "GCD of 6 and 3 is " << calc.gcd(6, 3) << endl;
     cout << "LCM of 6 and 3 is " << calc.lcm(6, 3) << endl;
+    cout << "A random number between 1 and 20 is " << calc.lcm(1, 20) << endl;
     return 0;
 }

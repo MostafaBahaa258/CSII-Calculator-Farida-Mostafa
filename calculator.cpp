@@ -1,3 +1,4 @@
+#include <cstdlib>
 #include "calculator.h" 
 
 double Calculator::add(double a, double b){
@@ -25,4 +26,8 @@ int Calculator::gcd(int a, int b) {
 
 int Calculator::lcm(int a, int b) {
     return (a * b) / gcd(a, b);
+}
+
+int Calculator::random(int min, int max) {
+    return min + rand() % (max - min + 1);
 }
